@@ -1,6 +1,8 @@
 # Overview
 
-This is a Pluralsight tutorial by Deborah Kurata that I completed to help me learn and get started with the Angular framework 
+This is a Pluralsight tutorial by Deborah Kurata that I completed to help me learn and get started with the Angular framework
+
+Here is a [link](https://app.pluralsight.com/player?course=angular-2-getting-started-update&author=deborah-kurata&name=angular-2-getting-started-update-m0&clip=0&mode=live) to the tutorial 
 
 
 ## APM
