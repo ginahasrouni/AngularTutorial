@@ -1,4 +1,9 @@
-# APM
+# Overview
+
+This is a Pluralsight tutorial by Deborah Kurata that I completed to help me learn and get started with the Angular framework 
+
+
+## APM
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
